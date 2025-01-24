@@ -1,0 +1,1 @@
+This is the UI of Flat rating app
